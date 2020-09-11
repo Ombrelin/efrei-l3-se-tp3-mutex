@@ -1,0 +1,1 @@
+/usr/bin/cc  -pthread -g   CMakeFiles/efrei_l3_se_tp3_mutex.dir/main.c.o  -o efrei_l3_se_tp3_mutex 
