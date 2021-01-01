@@ -1,8 +1,6 @@
-## EFREI L3 ASYRIA Système d’exploitation 2017 - 2018
+# TP 3
 
 Auteur : Fabien Calcado (tous droits réservés)
-
-# TP 3
 
 # Thread & Synchronisation
 
